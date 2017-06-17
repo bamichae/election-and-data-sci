@@ -7,10 +7,10 @@ library(ROAuth)
 library(ggplot2)
 library(grid)
 
-api_key <- 'nlczeDhBe4m1WkmTWhGeWL9oS'
-api_secret <- 'AsDWSyzPCZuzx5DTW6XRJoYi8x8qR6kvI4rbWrcqAA7T6MuQGT'
-access_token <- '772218532801220608-FcHWRywnYynnFVIjf0GRe0uBNNfsSsH'
-access_secret <- 'Xsy02Xjg9wK6wDqNFJHbYdao0xvY9y2TnxeOz8aEGikxW'
+api_key <- '#####################'
+api_secret <- '#####################'
+access_token <- '#####################'
+access_secret <- '#####################'
 requestURL <- "https://api.twitter.com/oauth/request_token"
 accessURL <- "https://api.twitter.com/oauth/access_token"
 authURL <- "https://api.twitter.com/oauth/authorize"
